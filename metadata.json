@@ -1,0 +1,6 @@
+{
+  "name": "Stellar Horizons",
+  "description": "Peer-reviewed astronomical discoveries, deep-space cosmology, rocket engineering, and educational space science publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
